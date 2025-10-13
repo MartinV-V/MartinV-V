@@ -46,8 +46,8 @@ Hi, I’m a student from Spain and I’m currently studying
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Welshixu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Welshixu&theme=midnight-purple&hide_border=true&background=00000000" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinV-V&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinV-V&theme=midnight-purple&hide_border=true&background=00000000" alt="GitHub streak" height="165" />
 </p>
 
 ---
