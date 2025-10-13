@@ -10,7 +10,7 @@
   </h2>
   <p><img src=https://skillicons.dev/icons?i=html,css,java,py,c#></p>
   <h2>Sistemas Operativos con los que trabajo 😄</h2>
-  <p><img src=https://skillicons.dev/icons?i=ubuntu,windows</p>
+  <p><img src=https://skillicons.dev/icons?i=ubuntu,windows></p>
   <h2>Sistemas que estoy en proceso de estudio 🤔</h2>
-  <p><img src=https://skillicons.dev/icons?i=kali</p>
+  <p><img src=https://skillicons.dev/icons?i=kali></p>
 </body>
