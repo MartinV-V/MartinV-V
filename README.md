@@ -54,5 +54,5 @@ Hi, I’m a student from Spain and I’m currently studying
 
 ## 💜 Connect with Me
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-%23EDE7F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-%23EDE7F6?style=f
+  <a href="https://github.com/MartinV-V"><img src="https://img.shields.io/badge/GitHub-%23EDE7F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  
