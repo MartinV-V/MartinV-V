@@ -1,16 +1,16 @@
 ## Hi, you finally awake :3 👋
 
-<!--
-**MartinV-V/MartinV-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+  <h1>Personal presentation</h1>
+  <p>Hi, I’m a student from Spain and I’m currently studying</p>
+  <p>Web Application Development <img src=https://skillicons.dev/icons?i=github></p>
+  <p>👉 Programming since 2022 – present ✅</p>
+  <h2>
+    Lenguajes en los que trabajo ⚡ 
+  </h2>
+  <p><img src=https://skillicons.dev/icons?i=html,css,java,py,c#></p>
+  <h2>Sistemas Operativos con los que trabajo 😄</h2>
+  <p><img src=https://skillicons.dev/icons?i=ubuntu,windows</p>
+  <h2>Sistemas que estoy en proceso de estudio 🤔</h2>
+  <p><img src=https://skillicons.dev/icons?i=kali</p>
+</body>
