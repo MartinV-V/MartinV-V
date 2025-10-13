@@ -3,7 +3,7 @@
 <body>
   <h1>Personal presentation</h1>
   <p>Hi, I’m a student from Spain and I’m currently studying</p>
-  <p>Web Application Development <img src=https://skillicons.dev/icons?i=github></p>
+  <p>Web Application Development</p>
   <p>👉 Programming since 2022 – present ✅</p>
   <h2>
     Lenguajes en los que trabajo ⚡ 
