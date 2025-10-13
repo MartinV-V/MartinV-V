@@ -24,27 +24,27 @@
   <div style="margin: 40px 0;">
     <h2 style="margin-top: 40px; font-size: 2rem; color: #1a1a1a;">IDEs I Use 🖥️</h2>
     <div>
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio" alt="IDEs" style="width:50px; margin:10px;">
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio" alt="IDEs">
     </div>
   </div>
 
   <div style="margin: 40px 0;">
     <h2 style="margin-top: 40px; font-size: 2rem; color: #1a1a1a;">Operating Systems I Use 😄</h2>
     <div>
-      <img src="https://skillicons.dev/icons?i=ubuntu,windows" alt="OS" style="width:50px; margin:10px;">
+      <img src="https://skillicons.dev/icons?i=ubuntu,windows" alt="OS">
     </div>
   </div>
 
   <div style="margin: 40px 0;">
     <h2 style="margin-top: 40px; font-size: 2rem; color: #1a1a1a;">Systems I’m Learning 🤔</h2>
     <div>
-      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" style="width:50px; margin:10px;">
+      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" >
     </div>
   </div>
 
   <div style="margin: 40px 0;">
     <h2 style="margin-top: 40px; font-size: 2rem; color: #1a1a1a;">GitHub Stats 📊</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=MartinV-V&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MartinV-V&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
 
 </body>
