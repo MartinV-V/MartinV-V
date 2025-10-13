@@ -6,11 +6,11 @@
   <p>Web Application Development</p>
   <p>👉 Programming since 2022 – present ✅</p>
   <h2>
-    Lenguajes en los que trabajo ⚡ 
+    Programming languages I use ⚡ 
   </h2>
   <p><img src=https://skillicons.dev/icons?i=html,java,py,c#></p>
-  <h2>Sistemas Operativos con los que trabajo 😄</h2>
+  <h2> Operating Systems I use😄</h2>
   <p><img src=https://skillicons.dev/icons?i=ubuntu,windows></p>
-  <h2>Sistemas que estoy en proceso de estudio 🤔</h2>
+  <h2>Systems I’m learning 🤔</h2>
   <p><img src=https://skillicons.dev/icons?i=kali></p>
 </body>
