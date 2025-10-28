@@ -4,7 +4,7 @@
 
 ## ✨ Personal Presentation
 Hi, I’m a student from Spain and I’m currently studying  
-**Web Application Development**  
+**Multiplataform Application Development**  
 
 > 👉 Programming since **2022 – present** ✅
 
