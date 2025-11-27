@@ -54,4 +54,5 @@ Hi, I’m a student from Spain and I’m currently studying
 ## 💜 Connect with Me
 <p align="center">
   <a href="https://github.com/MartinV-V"><img src="https://img.shields.io/badge/GitHub-%23EDE7F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="www.linkedin.com/in/martin-viso-6845782a1"><img src="https://img.shields.io/badge/Linkedin-%23EDE7F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   
